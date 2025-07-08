@@ -152,7 +152,7 @@ footer {
 }
 
 .manutencao{
-    width: clamp(450px, 90dvw, 1150px);
+    width: clamp(250px, 90dvw, 1150px);
     border-radius: 16px;
     display: flex;
     align-items: center;
